@@ -14,6 +14,7 @@ _kamu harus tau **ini**_ :
 2. PostgreSQL
 3. EJS
 4. ExpressJS
+5. Heroku
 
 kalo udah langsung aja PR yaaa
 
